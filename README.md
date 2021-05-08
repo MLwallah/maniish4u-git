@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maniish4u-git
+- 👋 Hi, I’m Manish Singh
 - 👀 I’m interested in creating great applications
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on JS projects
